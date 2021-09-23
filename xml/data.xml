@@ -1,0 +1,271 @@
+<root>
+ <cliente tipo="residenziale">
+  <nome nodeType="string">Elia</nome>
+  <cognome nodeType="string">Vettoretto</cognome>
+  <email nodeType="string">elia.vettoretto@libero.it</email>
+  <telefono nodeType="string">3334707266</telefono>
+  <cf nodeType="string">VTTLEI96C28C111X</cf>
+  <dataNascita nodeType="data">1996/03/28</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">AX983044</numeroDoc>
+  <scadenzaDoc nodeType="data">2025/03/28</scadenzaDoc>
+  <rilascioDoc nodeType="data">2025/03/28</rilascioDoc>
+  <indirizzo nodeType="string">Pozzi di Salvatronda 11</indirizzo>
+  <comune nodeType="string">Castelfranco Veneto</comune>
+  <provincia nodeType="string">TV</provincia>
+  <cap nodeType="string">31033</cap>
+  <idContratti nodeType="unique">
+   <id nodeType="">0</id>
+   <id nodeType="">7</id>
+  </idContratti>
+ </cliente>
+ <cliente tipo="residenziale">
+  <nome nodeType="string">Christian</nome>
+  <cognome nodeType="string">Marin</cognome>
+  <email nodeType="string">marinchristian08@gmail.com</email>
+  <telefono nodeType="string">3938153415</telefono>
+  <cf nodeType="string">MRNCRS91B14A703J</cf>
+  <dataNascita nodeType="data">1991/02/14</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">AY2739984</numeroDoc>
+  <scadenzaDoc nodeType="data">2027/02/14</scadenzaDoc>
+  <rilascioDoc nodeType="data">2027/02/14</rilascioDoc>
+  <indirizzo nodeType="string">Via Tenente C. Eger 37</indirizzo>
+  <comune nodeType="string">Mussolente</comune>
+  <provincia nodeType="string">VI</provincia>
+  <cap nodeType="string">36065</cap>
+  <idContratti nodeType="unique">
+   <id nodeType="">1</id>
+   <id nodeType="">8</id>
+  </idContratti>
+ </cliente>
+ <cliente tipo="residenziale">
+  <nome nodeType="string">Paolo</nome>
+  <cognome nodeType="string">Galsasso</cognome>
+  <email nodeType="string">paologalasso@gpaholding.it</email>
+  <telefono nodeType="string">3358247660</telefono>
+  <cf nodeType="string">GLSPLA59R05C383U</cf>
+  <dataNascita nodeType="data">1959/10/05</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">AY9721633</numeroDoc>
+  <scadenzaDoc nodeType="data">2028/10/05</scadenzaDoc>
+  <rilascioDoc nodeType="data">2028/10/05</rilascioDoc>
+  <indirizzo nodeType="string">Via Peschiera 31</indirizzo>
+  <comune nodeType="string">Treviso</comune>
+  <provincia nodeType="string">TV</provincia>
+  <cap nodeType="string">31100</cap>
+  <idContratti nodeType="unique">
+   <id nodeType="">2</id>
+  </idContratti>
+ </cliente>
+ <cliente tipo="residenziale">
+  <nome nodeType="string">Gianfranco</nome>
+  <cognome nodeType="string">Borghi</cognome>
+  <email nodeType="string">giorgiobj@libero.it</email>
+  <telefono nodeType="string">3406187710</telefono>
+  <cf nodeType="string">BRGGFR43T19C038L</cf>
+  <dataNascita nodeType="data">1943/12/19</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">AX5583743</numeroDoc>
+  <scadenzaDoc nodeType="data">2027/12/19</scadenzaDoc>
+  <rilascioDoc nodeType="data">2027/12/19</rilascioDoc>
+  <indirizzo nodeType="string">Via Palestro 21</indirizzo>
+  <comune nodeType="string">Treviso</comune>
+  <provincia nodeType="string">TV</provincia>
+  <cap nodeType="string">31100</cap>
+  <idContratti nodeType="unique"/>
+ </cliente>
+ <cliente tipo="business">
+  <nome nodeType="string">Roberto</nome>
+  <cognome nodeType="string">Dall'Ara</cognome>
+  <email nodeType="string">amministrazione@hitech-piling.it</email>
+  <telefono nodeType="string">3490990094</telefono>
+  <cf nodeType="string">DLLRRT56A19G525M</cf>
+  <dataNascita nodeType="data">1956/01/19</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">CA87560FS</numeroDoc>
+  <scadenzaDoc nodeType="data">2030/01/19</scadenzaDoc>
+  <rilascioDoc nodeType="data">2030/01/19</rilascioDoc>
+  <indirizzo nodeType="string">Via Trieste 5</indirizzo>
+  <comune nodeType="string">Marcon</comune>
+  <provincia nodeType="string">VE</provincia>
+  <cap nodeType="string">30020</cap>
+  <idContratti nodeType="unique">
+   <id nodeType="">4</id>
+  </idContratti>
+  <ragioneSociale nodeType="string">Hi-Tech S.r.l.</ragioneSociale>
+  <piva nodeType="string">03678650262</piva>
+  <cfAzienda nodeType="string">03678650262</cfAzienda>
+ </cliente>
+ <cliente tipo="business">
+  <nome nodeType="string">Tatiana</nome>
+  <cognome nodeType="string">Cadorin</cognome>
+  <email nodeType="string">tatiana@azagcadorin.it</email>
+  <telefono nodeType="string">3391914206</telefono>
+  <cf nodeType="string">CDRTTN91L51F443O</cf>
+  <dataNascita nodeType="data">1991/07/11</dataNascita>
+  <tipoDoc nodeType="int">0</tipoDoc>
+  <numeroDoc nodeType="string">CA17721EN</numeroDoc>
+  <scadenzaDoc nodeType="data">2029/07/11</scadenzaDoc>
+  <rilascioDoc nodeType="data">2029/07/11</rilascioDoc>
+  <indirizzo nodeType="string">Via Cervada 16/A</indirizzo>
+  <comune nodeType="string">Volpago del Montello</comune>
+  <provincia nodeType="string">TV</provincia>
+  <cap nodeType="string">31040</cap>
+  <idContratti nodeType="unique">
+   <id nodeType="">6</id>
+  </idContratti>
+  <ragioneSociale nodeType="string">Azienda Agricola Cadorin S.r.l.</ragioneSociale>
+  <piva nodeType="string">04766300265</piva>
+  <cfAzienda nodeType="string">04766300265</cfAzienda>
+ </cliente>
+ <dipendente tipo="manager">
+  <nome nodeType="string">Fiorenzo</nome>
+  <cognome nodeType="string">Rossi</cognome>
+  <email nodeType="string">fiorenzo@sinergianet.it</email>
+  <telefono nodeType="string">3925280278</telefono>
+  <codiceDipendente nodeType="string">ROSFIO</codiceDipendente>
+  <percGuadagno nodeType="double">0.5</percGuadagno>
+  <ritenutaAcconto nodeType="double">0.2</ritenutaAcconto>
+  <idContratti nodeType="unique">
+   <id nodeType="">1</id>
+   <id nodeType="">2</id>
+   <id nodeType="">8</id>
+  </idContratti>
+  <fissoMensile nodeType="double">200</fissoMensile>
+  <bonus nodeType="double">0.2</bonus>
+ </dipendente>
+ <dipendente tipo="manager">
+  <nome nodeType="string">Emanuele</nome>
+  <cognome nodeType="string">Paulon</cognome>
+  <email nodeType="string">emanuele.p@sinergianet.it</email>
+  <telefono nodeType="string">3498641086</telefono>
+  <codiceDipendente nodeType="string">PAUEMA</codiceDipendente>
+  <percGuadagno nodeType="double">0.5</percGuadagno>
+  <ritenutaAcconto nodeType="double">0.15</ritenutaAcconto>
+  <idContratti nodeType="unique">
+   <id nodeType="">0</id>
+   <id nodeType="">4</id>
+  </idContratti>
+  <fissoMensile nodeType="double">200</fissoMensile>
+  <bonus nodeType="double">0.2</bonus>
+ </dipendente>
+ <dipendente tipo="agente">
+  <nome nodeType="string">Debora</nome>
+  <cognome nodeType="string">Bosco</cognome>
+  <email nodeType="string">deborabosco@ymail.com</email>
+  <telefono nodeType="string">3494333809</telefono>
+  <codiceDipendente nodeType="string">BOSDEB</codiceDipendente>
+  <percGuadagno nodeType="double">0.4</percGuadagno>
+  <ritenutaAcconto nodeType="double">0.2</ritenutaAcconto>
+  <idContratti nodeType="unique">
+   <id nodeType="">6</id>
+   <id nodeType="">7</id>
+  </idContratti>
+ </dipendente>
+ <contratto>
+  <idContratto nodeType="unique">0</idContratto>
+  <idCliente nodeType="string">VTTLEI96C28C111X</idCliente>
+  <idAgente nodeType="string">PAUEMA</idAgente>
+  <tipoContratto nodeType="ctrType">2</tipoContratto>
+  <tipoCliente nodeType="cliType">0</tipoCliente>
+  <dataStipula nodeType="data">2021/08/23</dataStipula>
+  <dataSpedizione nodeType="data">2021/08/25</dataSpedizione>
+  <agenzia nodeType="string">4SRL</agenzia>
+  <fornitore nodeType="string">Fastweb</fornitore>
+  <nomeOfferta nodeType="string">Fastweb Next Casa</nomeOfferta>
+  <gettoneBase nodeType="double">90</gettoneBase>
+  <canvasSDD nodeType="double">0</canvasSDD>
+  <canvasMail nodeType="double">5</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">1</idContratto>
+  <idCliente nodeType="string">MRNCRS91B14A703J</idCliente>
+  <idAgente nodeType="string">ROSFIO</idAgente>
+  <tipoContratto nodeType="ctrType">1</tipoContratto>
+  <tipoCliente nodeType="cliType">0</tipoCliente>
+  <dataStipula nodeType="data">2021/07/10</dataStipula>
+  <dataSpedizione nodeType="data">2021/07/11</dataSpedizione>
+  <agenzia nodeType="string">Global Consult</agenzia>
+  <fornitore nodeType="string">Open Energia</fornitore>
+  <nomeOfferta nodeType="string">OP8N Premium</nomeOfferta>
+  <gettoneBase nodeType="double">60</gettoneBase>
+  <canvasSDD nodeType="double">10</canvasSDD>
+  <canvasMail nodeType="double">10</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">2</idContratto>
+  <idCliente nodeType="string">GLSPLA59R05C383U</idCliente>
+  <idAgente nodeType="string">ROSFIO</idAgente>
+  <tipoContratto nodeType="ctrType">0</tipoContratto>
+  <tipoCliente nodeType="cliType">1</tipoCliente>
+  <dataStipula nodeType="data">2021/07/05</dataStipula>
+  <dataSpedizione nodeType="data">2021/07/05</dataSpedizione>
+  <agenzia nodeType="string">Smart Energy</agenzia>
+  <fornitore nodeType="string">A2A</fornitore>
+  <nomeOfferta nodeType="string">A2A Start Gas</nomeOfferta>
+  <gettoneBase nodeType="double">56</gettoneBase>
+  <canvasSDD nodeType="double">8</canvasSDD>
+  <canvasMail nodeType="double">4</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">6</idContratto>
+  <idCliente nodeType="string">CDRTTN91L51F443O</idCliente>
+  <idAgente nodeType="string">BOSDEB</idAgente>
+  <tipoContratto nodeType="ctrType">1</tipoContratto>
+  <tipoCliente nodeType="cliType">1</tipoCliente>
+  <dataStipula nodeType="data">2021/07/29</dataStipula>
+  <dataSpedizione nodeType="data">2021/08/02</dataSpedizione>
+  <agenzia nodeType="string">Smart Energy</agenzia>
+  <fornitore nodeType="string">E.ON Energia</fornitore>
+  <nomeOfferta nodeType="string">E.ON GasVerde Business</nomeOfferta>
+  <gettoneBase nodeType="double">130</gettoneBase>
+  <canvasSDD nodeType="double">8</canvasSDD>
+  <canvasMail nodeType="double">6</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">7</idContratto>
+  <idCliente nodeType="string">VTTLEI96C28C111X</idCliente>
+  <idAgente nodeType="string">BOSDEB</idAgente>
+  <tipoContratto nodeType="ctrType">1</tipoContratto>
+  <tipoCliente nodeType="cliType">0</tipoCliente>
+  <dataStipula nodeType="data">2021/05/12</dataStipula>
+  <dataSpedizione nodeType="data">2021/05/12</dataSpedizione>
+  <agenzia nodeType="string">Global Consult</agenzia>
+  <fornitore nodeType="string">Open Energia</fornitore>
+  <nomeOfferta nodeType="string">OP3N</nomeOfferta>
+  <gettoneBase nodeType="double">20</gettoneBase>
+  <canvasSDD nodeType="double">10</canvasSDD>
+  <canvasMail nodeType="double">10</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">8</idContratto>
+  <idCliente nodeType="string">MRNCRS91B14A703J</idCliente>
+  <idAgente nodeType="string">ROSFIO</idAgente>
+  <tipoContratto nodeType="ctrType">0</tipoContratto>
+  <tipoCliente nodeType="cliType">0</tipoCliente>
+  <dataStipula nodeType="data">2021/01/09</dataStipula>
+  <dataSpedizione nodeType="data">2021/06/28</dataSpedizione>
+  <agenzia nodeType="string">Smart Energy</agenzia>
+  <fornitore nodeType="string">Iberdrola</fornitore>
+  <nomeOfferta nodeType="string">EcoChiara Casa</nomeOfferta>
+  <gettoneBase nodeType="double">56</gettoneBase>
+  <canvasSDD nodeType="double">4</canvasSDD>
+  <canvasMail nodeType="double">4</canvasMail>
+ </contratto>
+ <contratto>
+  <idContratto nodeType="unique">4</idContratto>
+  <idCliente nodeType="string">DLLRRT56A19G525M</idCliente>
+  <idAgente nodeType="string">PAUEMA</idAgente>
+  <tipoContratto nodeType="ctrType">2</tipoContratto>
+  <tipoCliente nodeType="cliType">1</tipoCliente>
+  <dataStipula nodeType="data">2021/09/01</dataStipula>
+  <dataSpedizione nodeType="data">2021/09/03</dataSpedizione>
+  <agenzia nodeType="string">4SRL</agenzia>
+  <fornitore nodeType="string">TIM</fornitore>
+  <nomeOfferta nodeType="string">TIM Business XDSL</nomeOfferta>
+  <gettoneBase nodeType="double">175</gettoneBase>
+  <canvasSDD nodeType="double">10</canvasSDD>
+  <canvasMail nodeType="double">5</canvasMail>
+ </contratto>
+</root>

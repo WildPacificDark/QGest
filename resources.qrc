@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/cancel.png</file>
+        <file>img/diskette.png</file>
+        <file>img/editing.png</file>
+        <file>img/plus.png</file>
+        <file>img/redo.png</file>
+        <file>img/undo.png</file>
+        <file>xml/data.xml</file>
+        <file>img/wallet.png</file>
+    </qresource>
+</RCC>
